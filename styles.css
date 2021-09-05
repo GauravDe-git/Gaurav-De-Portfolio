@@ -42,3 +42,7 @@ body{
     text-decoration: none;
     color: white;
 }
+
+.link .link-active{
+    font-weight: bold;
+}
