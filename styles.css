@@ -60,7 +60,8 @@ body{
 .link-secondary{
     color: var(--primarycolor);
     border-radius: 0.5rem;
-    border: 1px solid var(--primarycolor);
+    padding: 0.5rem;
+    border:1px solid var(--primarycolor);
 }
 
 /* Intro */
