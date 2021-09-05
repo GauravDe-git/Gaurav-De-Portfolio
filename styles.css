@@ -48,3 +48,9 @@ body{
     color: white;
     font-weight: bold;
 }
+
+/* Intro */
+
+.intro{
+    padding: 2rem;
+}
