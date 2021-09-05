@@ -25,6 +25,10 @@ body{
     text-align: right;
 }
 
+.navigation .link-active{
+    font-weight: bold;
+}
+
 /* Lists */
 
 .list-non-bullet{
@@ -41,8 +45,4 @@ body{
 .link{
     text-decoration: none;
     color: white;
-}
-
-.link .link-active{
-    font-weight: bold;
 }
