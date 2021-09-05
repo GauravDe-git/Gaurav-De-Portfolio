@@ -9,4 +9,5 @@ body{
 
 .navigation{
     background-color: var(--primarycolor);
+    color: white;
 }
