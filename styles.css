@@ -7,10 +7,13 @@ body{
     --primarycolor: #60A5FA;
 }
 
+.container{
+    padding: 0rem 1rem;
+}
+
 .navigation{
     background-color: var(--primarycolor);
     color: white;
     padding: 1rem;
-    border-radius: 0.5rem;
     border-bottom-left-radius: 1rem;
 }
