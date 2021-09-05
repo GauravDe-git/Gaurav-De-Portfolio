@@ -5,6 +5,7 @@ body{
 
 :root{
     --primarycolor: #60A5FA;
+    --greycolor:    #6B7280;
 }
 
 /* Navigation related stuff */
@@ -59,4 +60,10 @@ body{
     max-width: 350px;
     display: block;
     margin: auto;
+}
+
+.intro .intro-heading{
+    color: var(--greycolor);
+    text-align: center;
+    padding-top: 1rem;
 }
