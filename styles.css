@@ -10,7 +10,7 @@ body{
 .navigation{
     background-color: var(--primarycolor);
     color: white;
-    margin:auto;
     padding: 1rem;
+    border-radius: 0.5rem;
     border-bottom-left-radius: 1rem;
 }
