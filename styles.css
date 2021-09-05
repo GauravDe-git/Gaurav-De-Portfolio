@@ -105,3 +105,18 @@ body{
     max-width: 600px;
     margin: auto;
 }
+
+/*footer*/
+
+.hr{
+    padding: 2rem 0rem;
+}
+
+.footer{
+    background-color: var(--primarycolor);
+    overflow: auto;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom-left-radius: 1rem;
+}
