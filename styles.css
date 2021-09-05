@@ -6,6 +6,7 @@ body{
 :root{
     --primarycolor: #60A5FA;
     --greycolor:    #6B7280;
+    --offwhite:     #edf2f2;
 }
 
 /* Navigation related stuff */
@@ -66,4 +67,14 @@ body{
     color: var(--greycolor);
     text-align: center;
     padding-top: 1rem;
+}
+
+/* Sections */
+
+.section{
+    padding: 2rem;
+}
+
+.section h1{
+    text-align: center;
 }
