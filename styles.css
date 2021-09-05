@@ -51,6 +51,18 @@ body{
     font-weight: bold;
 }
 
+.link-primary{
+    padding: 0.5rem 1rem;
+    background-color: var(--primarycolor);
+    border-radius: 0.5rem;
+}
+
+.link-secondary{
+    color: var(--primarycolor);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primarycolor);
+}
+
 /* Intro */
 
 .intro{
@@ -77,4 +89,18 @@ body{
 
 .section h1{
     text-align: center;
+}
+
+.offwhite{
+    background-color: var(--offwhite);
+}
+
+.container {
+    padding: 0rem 1rem;
+
+}
+
+.container-center {
+    max-width: 600px;
+    margin: auto;
 }
